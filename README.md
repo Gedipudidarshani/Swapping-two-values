@@ -18,11 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+``````
+#program to swap two values.
+#Developed by: Gedipudi Darshani
+#RegisterNumber:23004619
+x=int(input())
+y=int(input())
+m=y
+y=x
+x=m
+print("Swapped values are:",x,y)
+```````
+## OUTPUT:
+![solution](output1.png)
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
